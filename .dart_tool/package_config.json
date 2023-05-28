@@ -57,7 +57,7 @@
     },
     {
       "name": "easy_downloader",
-      "rootUri": "file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/git/easy_downloader-8889c1bbfb51b583c9403aafdefde16c5917e03b/",
+      "rootUri": "file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/git/easy_downloader-f1494704d6419d9725a9f6521396f7e1d0eb5507/",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -314,7 +314,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-05-28T12:02:59.388671Z",
+  "generated": "2023-05-28T12:17:29.621914Z",
   "generator": "pub",
   "generatorVersion": "3.0.2"
 }
