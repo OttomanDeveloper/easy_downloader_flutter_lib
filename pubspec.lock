@@ -78,10 +78,10 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: f1494704d6419d9725a9f6521396f7e1d0eb5507
+      resolved-ref: "9970a00fafa17f650713089c94e48e9d6e31f4dc"
       url: "https://github.com/OttomanDeveloper/easy_downloader.git"
     source: git
-    version: "0.0.30"
+    version: "0.0.31"
   equatable:
     dependency: transitive
     description:
