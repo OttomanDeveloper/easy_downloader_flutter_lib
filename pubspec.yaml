@@ -9,7 +9,10 @@ environment:
 dependencies:
   isar_flutter_libs: ^3.1.0+1
   flutter_local_notifications: ^14.1.0
-  easy_downloader: ^0.0.24
+  easy_downloader:
+    git:
+      url: https://github.com/OttomanDeveloper/easy_downloader.git
+      ref: main
   flutter:
     sdk: flutter
 

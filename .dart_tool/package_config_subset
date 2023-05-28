@@ -1,3 +1,7 @@
+easy_downloader
+2.17
+file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/git/easy_downloader-8889c1bbfb51b583c9403aafdefde16c5917e03b/
+file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/git/easy_downloader-8889c1bbfb51b583c9403aafdefde16c5917e03b/lib/
 args
 2.18
 file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.1/
@@ -34,10 +38,6 @@ dbus
 2.15
 file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/hosted/pub.dev/dbus-0.7.8/
 file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/hosted/pub.dev/dbus-0.7.8/lib/
-easy_downloader
-2.17
-file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/hosted/pub.dev/easy_downloader-0.0.29/
-file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/hosted/pub.dev/easy_downloader-0.0.29/lib/
 equatable
 2.12
 file:///C:/Users/Muhammad%20Usman/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.5/
@@ -204,6 +204,6 @@ file:///C:/src/flutter/packages/flutter_test/
 file:///C:/src/flutter/packages/flutter_test/lib/
 easy_downloader_flutter_lib
 2.19
-file:///D:/myPackages/easy_downloader/easy_downloader_flutter_lib/
-file:///D:/myPackages/easy_downloader/easy_downloader_flutter_lib/lib/
+file:///D:/myPackages/easy_downloader_flutter_lib/
+file:///D:/myPackages/easy_downloader_flutter_lib/lib/
 2

@@ -76,10 +76,11 @@ packages:
   easy_downloader:
     dependency: "direct main"
     description:
-      name: easy_downloader
-      sha256: "167db3d89bc5fbcc828f5069f0a0ad47f14c95f05382a03e9ebc900840d940b0"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: main
+      resolved-ref: "8889c1bbfb51b583c9403aafdefde16c5917e03b"
+      url: "https://github.com/OttomanDeveloper/easy_downloader.git"
+    source: git
     version: "0.0.29"
   equatable:
     dependency: transitive
